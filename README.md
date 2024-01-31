@@ -22,6 +22,26 @@
  <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div><br/>
 
+## Projects
+
+### Language Models
+
+![Language Models](https://github-readme-stats.vercel.app/api/pin/?username=Eduds007&repo=LanguageModels&theme=radical)
+
+This project is a collaboration with [coauthor's name](https://github.com/coauthor's username). We built a language model using...
+
+Check out the project on [GitHub](https://github.com/Eduds007/LanguageModels).
+
+---
+
+### Fuzzer Tests
+
+![Fuzzer Tests](https://github-readme-stats.vercel.app/api/pin/?username=th-duvanel&repo=fuzzer-tests&theme=radical)
+
+This project is a personal initiative. In this project, I...
+
+Check out the project on [GitHub](https://github.com/th-duvanel/fuzzer-tests).
+
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 
